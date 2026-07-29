@@ -19,13 +19,10 @@ public class Greeter {
     System.out.println("main added2");
     System.out.println("main added3");
     
-    System.out.println("main added4");
-    System.out.println("main added5");
-    System.out.println("main added6");
-    
     System.out.println("develop added1");
     System.out.println("develop added2");
     System.out.println("develop added3");
+    System.out.println("ok1");
     
   }
 }
